@@ -11,13 +11,13 @@ Then I did many minor things for HtmlUnit mainly in the area of js support.
 
 After that I spend some time on the Document.createElement() function. There is a clear specification for valid element names.
 But guess what the browsers are doing... Finally I gave up and did a simple hack based on unicode isLetter() to implement something that
-is similar to the browsers. But now I'm trapped in the java-unicode-support trap. The tests are passing only if you use the rigth
+is similar to the browsers. And then I'm trapped in the java-unicode-support trap. The tests are passing only if you use the rigth
 jdk (mean the matching unicode support). What a ....
 
-As a real highligh I attended the [50.TAV](https://fg-tav.gi.de/veranstaltung/50-tav). Two really inspiring days!
+As a real highlight I attended the [50.TAV](https://fg-tav.gi.de/veranstaltung/50-tav). Two really inspiring days!
 
-And finally the Chrom/Edge 131 update is done.
+Finally the Chrome/Edge 131 update is done also.
 
-Stay tuned
+What a calm week - stay tuned
 
 RBRi
