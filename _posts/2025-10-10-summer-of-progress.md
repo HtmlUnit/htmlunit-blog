@@ -66,20 +66,14 @@ The biggest news is the introduction of our new sister project '[jsoup-bridge](h
 - Streamlined codebase for better maintainability
 - Switch to jUnit 5
 
-## What This Means for You
-
-These releases represent months of dedicated work improving HtmlUnit's:
-- **JavaScript compatibility** with modern web applications
-- **Stability** through extensive bug fixes and edge case handling  
-- **Developer experience** with better error messages and debugging support
-- **Ecosystem integration** through the new jsoup-bridge
-
 ## Thank You!
 
 Special thanks to our core contributors the RhinoTeam, René Schwietzke, and the entire community for their continued support and contributions. Your bug reports, pull requests, and feedback make HtmlUnit better with every release!
 
-## Looking Ahead
+---
 
 As always, you can download the latest version from Maven Central or check out the full [changes report](https://www.htmlunit.org/changes-report.html) for complete details.
 
 Happy testing!
+
+RBRi
