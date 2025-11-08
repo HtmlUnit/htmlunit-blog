@@ -3,10 +3,6 @@ title: "Deep Dive into JavaScript"
 date: 2025-11-08
 ---
 
-# Deep Dive into JavaScript
-
-*November 8, 2025*
-
 It's been a busy month! Between diving deep into JavaScript engine improvements with the Rhino team, implementing DOM APIs, and chasing down some tricky bugs, I've had my hands full. The result of all this work is HtmlUnit 4.18.0, which was released on October 30, 2025. Let me walk you through what I've been working on.
 
 ## 🚀 Version 4.18.0 (October 30, 2025)

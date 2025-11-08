@@ -3,8 +3,6 @@ title: "Bridging the Gap: HtmlUnit-jsoup Integration"
 date: 2025-07-10
 ---
 
-# Bridging the Gap: HtmlUnit-jsoup Integration
-
 As HtmlUnit continues to evolve as Java library for web automation and testing, we're constantly 
 looking for ways to enhance the developer experience and expand the possibilities for our users.
 Today, we're excited to showcase htmlunit-jsoup, a bridge library that opens up the entire jsoup

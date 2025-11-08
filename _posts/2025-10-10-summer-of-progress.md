@@ -3,8 +3,6 @@ title: "HtmlUnit 4.14.0 - 4.17.0: Summer of Progress"
 date: 2025-10-10
 ---
 
-# HtmlUnit 4.14.0 - 4.17.0: Summer of Progress
-
 It's been an incredibly productive few months for HtmlUnit! Between July and October 2025, we've released four significant versions (4.14.0, 4.15.0, 4.16.0, and 4.17.0) packed with improvements, new features, and important bug fixes. A major highlight across these releases is the outstanding work from the Rhino team, delivering substantial JavaScript engine improvements that bring HtmlUnit closer to modern ECMAScript compliance. Let's dive into the highlights!
 
 ## 🚀 Version 4.17.0 (October 5, 2025)
